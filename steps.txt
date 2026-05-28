@@ -1,0 +1,14 @@
+Cell 1  → Import Libraries
+Cell 2  → Load Dataset
+Cell 3  → Explore Columns (df.info)
+Cell 4  → Churn Distribution (pie + bar)
+Cell 5  → Check Missing Values
+Cell 6  → Fix TotalCharges
+Cell 7  → Clean Data + Encode Churn
+Cell 8  → Summary (describe)
+Cell 9  → Contract vs Churn
+Cell 10 → Tenure vs Churn
+Cell 11 → Monthly Charges vs Churn
+Cell 12 → Correlation Chart
+Cell 13 → ✅ KEY INSIGHTS (ده اللي تضيفيه)
+Cell 14 → ML Model (optional)
